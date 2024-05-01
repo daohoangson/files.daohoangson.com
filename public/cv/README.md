@@ -1,3 +1,3 @@
 # cv
 
- - Feb 6th, 2024 [pdf](./CV_20240206.pdf)
+- April 30, 2024 [pdf](./CV_20240430.pdf)
